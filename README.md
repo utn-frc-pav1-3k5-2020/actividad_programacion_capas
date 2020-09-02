@@ -7,7 +7,7 @@
 ```sh
 $ git clone https://github.com/utn-frc-pav1-3k5-2020/actividad_programacion_capas.git
 ```
-**1.2. Ubicarse en la carpeta generada con el nombre del repositorio: **
+**1.2. Ubicarse en la carpeta generada con el nombre del repositorio:**
 
 ```sh
 $ cd actividad_programacion_capas
